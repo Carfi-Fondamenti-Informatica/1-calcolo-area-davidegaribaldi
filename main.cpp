@@ -9,9 +9,11 @@ int main() {
     arearettangolo=a*b;
     areatrapezio=(a+b)*c/2;
     cout<<"L'area del triangolo e' "<<areatriangolo<<endl;
+    cout<<"L'area del quadrato e' "<<areaquadrato<<endl;
     cout<<"L'area del rettangolo e' "<<arearettangolo<<endl;
     cout<<"L'area del trapezio e' "<<areatrapezio<<endl;
-    cout<<"L'area del quadrato e' "<<areaquadrato<<endl;
+
 
     return 0;
 }
+
